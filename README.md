@@ -1,0 +1,4 @@
+AppleScripts
+============
+
+Collection of AppleScripts.
