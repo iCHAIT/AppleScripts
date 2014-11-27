@@ -1,0 +1,1 @@
+tell application "Safari" to display dialog URL of document 1 as string
