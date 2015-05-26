@@ -19,3 +19,11 @@ So why open all these applications individually,just run this script and all the
 This script will help you do that,just run the script and it will automatically open chrome with the url of the front window of safari.
 
 * **vlc_reader** - This script automatically copies the title of the current movie being played on the vlc media player to the clipboard.(not working yet)
+
+
+TODO
+====
+
+* imessages
+* vlc_reader
+* Make an applescript for deleting all the imessages.
