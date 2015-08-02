@@ -12,7 +12,6 @@ A collection of useful AppleScripts that will make you more productive with your
 * [mail_read](#mail)
 * [safari_url](#safari)
 * [transfer_url](#transfer)
-* [vlc_reader](#vlc)
 
 
 
@@ -48,14 +47,7 @@ There are times when you want to open the url opened on safari in chrome.
 This script will help you do that,just run the script and it will automatically open chrome with the url of the front window of safari.
 
 
-## <a name="vlc"></a>vlc_reader
-
-This script automatically copies the title of the current movie being played on the vlc media player to the clipboard.(not working yet)
-
-
 TODO
 ====
 
-* imessages
-* vlc_reader
-* Make an applescript for deleting all the imessages.
+* Fix the applescript for deleting all the imessages.
